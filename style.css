@@ -145,6 +145,7 @@ hr {
 }
 
 #like, #comment, #share {
+    background-color: white;
     transition: all 0.2s;
 }
 
