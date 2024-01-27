@@ -145,6 +145,7 @@ function post() {
         feedback.style.display = "flex";
         friends.style.display = "none";
         postTime.style.display = "flex";
+        postBackground.setAttribute('readonly', true);
     }
 }
 
